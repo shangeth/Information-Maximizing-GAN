@@ -13,4 +13,4 @@ python train.py
 ![](./img/mnist_angle.png)
 
 ### Varying Thickness
-![](./img/mnist_angle.png)
+![](./img/thickness.png)
