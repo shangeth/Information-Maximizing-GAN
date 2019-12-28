@@ -7,10 +7,10 @@ python train.py
 
 ![](./img/learning_curve.png)
 
-### Generated Images
+## Generated Images
 
-#### Varying Angle 
+### Varying Angle 
 ![](./img/mnist_angle.png)
 
-#### Varying Thickness
+### Varying Thickness
 ![](./img/mnist_angle.png)
