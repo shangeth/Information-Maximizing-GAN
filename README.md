@@ -8,6 +8,9 @@ python train.py
 ![](./img/learning_curve.png)
 
 ## Generated Images
+```
+python generate.py
+```
 
 ### Varying Angle 
 ![](./img/mnist_angle.png)
